@@ -1,0 +1,21 @@
+h1{
+    color:black;
+    
+}
+body {
+    background-color:lightcoral ;
+
+}
+nav a:hover {
+    background-color: white;
+    color: black;
+
+}
+nav{
+    display: flex;
+    justify-content: flex-start;
+}
+nav li ul a {
+    display: inline-block;
+
+}
