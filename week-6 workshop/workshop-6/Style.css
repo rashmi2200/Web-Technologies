@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding:0px;
+}
+
+.businesswomen{
+    width: 350px;
+    height: 350px;
+}
+
+.businessmen{
+    width:350px;
+    height:350px;
+    text-align: center;
+
+}
+
+.savills{
+    width:350px;
+    height:350px;
+}
+
+body{
+    background-color: orange;
+    height: 100%;
+}
+
+.firstrow{
+    text-align: center;
+    height:5px;
+    padding:100px;
+    padding-bottom: 100px;
+    font-size: x-large;
+    font-style: italic;
+}
+.secondrow{
+    display:flex;
+}
+.img,.name{
+    text-align:center ;
+    margin-top: 50px;
+}
+.fig2{
+    padding-right: 60px;
+}
+.fig3{
+    padding-left: 30px;
+}
+
+.right{
+   width:40%;
+    padding-left:50px ;
+}
+.middle{
+    width:40%;
+    padding-left:200px;
+    font-style:sans-serif ;
+}
+
+.date{
+    text-align: center;
+    padding-top: 20px;
+    font-size: medium;
+}
+
+.about{  
+    padding-left: 10px;
+    text-align: center;
+}
+
+.left{
+    font-style: sans-serif;
+    padding-right:150px;
+    text-align: center;
+    padding-left: 100px;
+   
+}
